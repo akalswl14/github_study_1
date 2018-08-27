@@ -7,3 +7,4 @@ date : 2018/08/20
  - Commit
  - Push / Pull
  - Branch
+ - Merge (hotfix1 branch)
